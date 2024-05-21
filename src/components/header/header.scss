@@ -1,7 +1,6 @@
 .header {
   background-color: #fe2722;
   border-radius: 8px;
-  padding: 0px 10px;
   position: sticky;
   z-index: 999;
   top: 0;
@@ -30,6 +29,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    padding: 0px 10px;
   }
 
   &__nav__form {
